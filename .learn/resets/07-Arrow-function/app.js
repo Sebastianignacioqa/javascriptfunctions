@@ -1,5 +1,5 @@
-const multy = (a,b) => {
-    return a*b
+function multy(a,b){
+    return a*b;
 }
 
 //Dont edit anything below this line
